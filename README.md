@@ -7,7 +7,6 @@ Yoobin Cheong <yc5206@nyu.edu> <br>
 Kannan Venkataramanan <kv942@nyu.edu> <br>
 Sandeep Bhupatiraju <sbhupatiraju@worldbank.org> <br>
 Daniel Li Chen <dchen9@worldbank.org> <br>
- <br>
 
 
 Description:
