@@ -33,11 +33,17 @@ Project
 │   ├── yc5206 
 │   ├── yk2678 
 │   └── shared: place anything you want to share with the group, or the final version of your notebook here.
+│
+├── src: store your source code (e.g. py, sh) here. This follows the same structure as /notebooks
+│
+├── reporting: Generated analysis as HTML, PDF, LaTeX, etc
+│   ├── interim: any intermediate report that has been created
+│   ├── figure: graphics and figures needed for report
+│   └── final: final report
+│
+├── references: data dictionaries, manuals, and all other explanatory materials.         
+├── requirements.txt: the requirements file for reproducing the analysis environment(TBD)
+└── setup.py: make this project pip installable with `pip install -e`
 
-| 
-| -- src: store your source code (e.g. py, sh) here. This follows the same structure as /notebooks
-| -- reporting:
-|    | -- assets: place images or table-data here for our final report.
-|    | -- latex: place the latex/bib file here(optional submodule location)
 ```
 This file structure is derived from [Cookiecutter Project Template](https://drivendata.github.io/cookiecutter-data-science/).
