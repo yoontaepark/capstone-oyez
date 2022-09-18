@@ -7,12 +7,13 @@ Yoobin Cheong <yc5206@nyu.edu> <br>
 Kannan Venkataramanan <kv942@nyu.edu> <br>
 Sandeep Bhupatiraju <sbhupatiraju@worldbank.org> <br>
 Daniel Li Chen <dchen9@worldbank.org> <br>
+<br>
 
 
 Description:
-This is a final project for New York University's Natural Language Understanding class (DS-GA 1012). Criteria [here](https://docs.google.com/document/d/1ELNs90-7rrgUcoRsRVjvjsp_N7siBTGWpvl9v5e8KKU)
+This is a capstone project for New York University's Capstone Project and Presentation (DS-GA 1006). Criteria [here](///)
 
-Due: May 13th, 2022
+Due: Dec 14th, 2022
 
 #### Repository Structure
 ```
