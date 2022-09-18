@@ -18,22 +18,22 @@ Description:
 
 #### Repository Structure
 ```
-project
+Project
 ├── LICENSE
 ├── README.md         
 ├── data
 │   ├── raw: web scarped case opinion texts from US courts (https://www.oyez.org/)
 │   ├── interim: intermediate data that has been preprocessed
 │   └── final: final data sets that are used for further analysis
+│
+├── notebooks: store your Jupyter Notebooks here.
+│   ├── yp2201: treat this workspace as your own.
+│   │           feel free to add subfolders or files as you see fit.
+│   │           work in a way that enables YOU to succeed
+│   ├── yc5206 
+│   ├── yk2678 
+│   └── shared: place anything you want to share with the group, or the final version of your notebook here.
 
-| 
-| -- notebooks: store your Jupyter Notebooks here.
-|    | -- yp2201: treat this workspace as your own.
-                  feel free to add subfolders or files as you see fit.
-                  work in a way that enables YOU to succeed.
-|    | -- yc5206
-|    | -- yk2678
-|    | -- shared: place anything you want to share with the group, or the final version of your notebook here.
 | 
 | -- src: store your source code (e.g. py, sh) here. This follows the same structure as /notebooks
 | -- reporting:
