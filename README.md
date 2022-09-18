@@ -2,8 +2,8 @@
 
 ### Authors:
 Yoon Tae Park <yp2201@nyu.edu> <br>
-Yeong Koh <yeong.koh@nyu.edu> <br>
 Yoobin Cheong <yc5206@nyu.edu> <br>
+Yeong Koh <yeong.koh@nyu.edu> <br>
 Kannan Venkataramanan <kv942@nyu.edu> <br>
 Sandeep Bhupatiraju <sbhupatiraju@worldbank.org> <br>
 Daniel Li Chen <dchen9@worldbank.org> <br>
@@ -20,18 +20,24 @@ Description:
 ```
 project
 | -- data
+│   ├── external       <- Data from third party sources.
+│   ├── interim        <- Intermediate data that has been transformed.
+│   ├── processed      <- The final, canonical data sets for modeling.
+│   └── raw            <- The original, immutable data dump.
+
+|    | -- web-scraping: web scarped case opinion texts from US courts (https://www.oyez.org/)
 |    | -- interrater-reliability: location of .csvs to evaluate interrater reliability
 |    | -- to_label: tmp location of the unlabelled data selected for the project
 |    | -- labelled: place labelled data selected for the project here.
-| -- artifacts: place to store checkpoints and results
+| 
 | -- notebooks: store your Jupyter Notebooks here.
-|    | -- ac4119: treat this workspace as your own.
+|    | -- yp2201: treat this workspace as your own.
                   feel free to add subfolders or files as you see fit.
                   work in a way that enables YOU to succeed.
-|    | -- gm2858
-|    | -- yj2369
-|    | -- yp2201
+|    | -- yc5206
+|    | -- yk2678
 |    | -- shared: place anything you want to share with the group, or the final version of your notebook here.
+| 
 | -- src: store your source code (e.g. py, sh) here. This follows the same structure as /notebooks
 | -- reporting:
 |    | -- assets: place images or table-data here for our final report.
