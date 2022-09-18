@@ -43,7 +43,7 @@ Project
 │
 ├── references: data dictionaries, manuals, and all other explanatory materials.         
 ├── requirements.txt: the requirements file for reproducing the analysis environment(TBD)
-└── setup.py: make this project pip installable with `pip install -e`
+└── setup.py: make this project pip installable with `pip install -e` (TBD)
 
 ```
 This file structure is derived from [Cookiecutter Project Template](https://drivendata.github.io/cookiecutter-data-science/).
