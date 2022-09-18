@@ -12,10 +12,9 @@ Daniel Li Chen <dchen9@worldbank.org> <br>
 
 Description:
 - Capstone project for New York University's Capstone Project and Presentation (DS-GA 1006, Fall 2022) mentored by World Bank
-
+- Due: Dec 14th, 2022
 
 <!-- Criteria [here](///) -->
-Due: Dec 14th, 2022
 
 #### Repository Structure
 ```
