@@ -19,16 +19,13 @@ Description:
 #### Repository Structure
 ```
 project
-| -- data
-│   ├── external       <- Data from third party sources.
-│   ├── interim        <- Intermediate data that has been transformed.
-│   ├── processed      <- The final, canonical data sets for modeling.
-│   └── raw            <- The original, immutable data dump.
+├── LICENSE
+├── README.md         
+├── data
+│   ├── raw: web scarped case opinion texts from US courts (https://www.oyez.org/)
+│   ├── interim: intermediate data that has been preprocessed
+│   └── final: final data sets that are used for further analysis
 
-|    | -- web-scraping: web scarped case opinion texts from US courts (https://www.oyez.org/)
-|    | -- interrater-reliability: location of .csvs to evaluate interrater reliability
-|    | -- to_label: tmp location of the unlabelled data selected for the project
-|    | -- labelled: place labelled data selected for the project here.
 | 
 | -- notebooks: store your Jupyter Notebooks here.
 |    | -- yp2201: treat this workspace as your own.
