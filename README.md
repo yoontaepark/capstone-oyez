@@ -11,7 +11,7 @@ Daniel Li Chen <dchen9@worldbank.org> <br>
 
 
 Description:
-This is a capstone project for New York University's Capstone Project and Presentation (DS-GA 1006). Criteria [here](///)
+This is a capstone project for New York University's Capstone Project and Presentation (DS-GA 1006) mentored by World Bank. Criteria [here](///)
 
 Due: Dec 14th, 2022
 
