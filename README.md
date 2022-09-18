@@ -36,7 +36,7 @@ Project
 │
 ├── src: store your source code (e.g. py, sh) here. This follows the same structure as /notebooks
 │
-├── reporting: Generated analysis as HTML, PDF, LaTeX, etc
+├── reports: Generated analysis as HTML, PDF, LaTeX, etc
 │   ├── interim: any intermediate report that has been created
 │   ├── figure: graphics and figures needed for report
 │   └── final: final report
