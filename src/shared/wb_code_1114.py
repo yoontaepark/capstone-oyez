@@ -30,7 +30,7 @@ import gc
 # define args 
 def parse_args():
     parser = argparse.ArgumentParser()
-    # parser.add_argument("task", choices=["Justia_summary", "Justia_holding", "facts_of_the_case", "question", "conclusion"])
+    parser.add_argument("task", choices=["Justia_summary", "Justia_holding", "facts_of_the_case", "question", "conclusion"])
     parser.add_argument("--finetune", action="store_true")
     return parser.parse_args()
 
