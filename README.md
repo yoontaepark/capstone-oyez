@@ -1,4 +1,4 @@
-# capstone-oyez: Automated judicial case briefing
+# [NLP] Summerization transformer model for Automated judicial case briefing
 
 ### Authors:
 Yoon Tae Park <yp2201@nyu.edu> <br>
